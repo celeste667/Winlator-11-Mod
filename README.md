@@ -4,9 +4,14 @@
 
 # Winlator
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.<br>
-This repository stores the latest updates for the Winlator app source.<br>
-For more information and releases, please visit the main repository: https://github.com/brunodev85/winlator
+Winlator Fork - Just some tweaks
+Yo dudes! I’ve put together this fork with just a couple of specific changes I needed. It's nothing crazy, just some minor stuff to make my life easier
+
+Custom UI: I’ve changed the theme to give the app a different look. Just wanted something that looked a bit more like my style.
+
+External Turnip Picker: Added the option to open and select Turnip driver files from your external storage. Now you can easily pick your own driver files from outside the app's default folders.
+
+That’s pretty much it for now. Just a simple mod to fix those two things. Hope it helps someone else out too!
 
 # Credits and Third-party apps
 
@@ -18,5 +23,5 @@ For more information and releases, please visit the main repository: https://git
 - VKD3D ([gitlab.winehq.org/wine/vkd3d](https://gitlab.winehq.org/wine/vkd3d))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
-Special thanks to all the developers involved in these projects.<br>
-Thank you to all the people who believe in this project.
+
+**You're a real one, Bruno!** You do so much for the community and we really need you around. Keep doin' your thing! ✨
