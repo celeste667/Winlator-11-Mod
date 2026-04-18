@@ -2,14 +2,16 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />
 </p>
 
-# Winlator
+# Winlator NEO
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.<br>
-This repository stores the latest updates for the Winlator app source.<br>
-For more information and releases, please visit the main repository: https://github.com/brunodev85/winlator
+**This is Winlator NEO**, a personal fork I’ve been working on to make the app fit my own style and include the features I actually use. 
 
-# Credits and Third-party apps
+I’m pretty new to the dev scene and I’m learning as I go, so I decided to share my progress and the tweaks I've been making with the community. My goal here is just to experiment with new ideas and keep things practical for anyone who wants a different look and feel for the app.
 
+**Since I'm still figuring things out**, I’m totally open to constructive criticism or any tips you might have. If you’ve got suggestions to help me improve the project, feel free to reach out.
+
+---
+Downloads and versions: [Releases Page](https://github.com/celeste667/Winlator-Neo/releases)
 - GLIBC Patches by [Termux Pacman](https://github.com/termux-pacman/glibc-packages)
 - Wine ([winehq.org](https://www.winehq.org/))
 - Box86/Box64 by [ptitseb](https://github.com/ptitSeb)
@@ -18,5 +20,3 @@ For more information and releases, please visit the main repository: https://git
 - VKD3D ([gitlab.winehq.org/wine/vkd3d](https://gitlab.winehq.org/wine/vkd3d))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
-Special thanks to all the developers involved in these projects.<br>
-Thank you to all the people who believe in this project.
